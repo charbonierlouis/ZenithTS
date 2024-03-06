@@ -1,0 +1,11 @@
+{
+  "name": "zenithts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/charbonierlouis/ZenithTS.git",
+  "author": "Louis <louis@tediber.com>",
+  "license": "MIT",
+  "dependencies": {
+    "typescript": "^5.3.3"
+  }
+}
